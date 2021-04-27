@@ -1,6 +1,4 @@
-# Lista de proyectos de Fabián Nómada y Yax
-
-Esta es una lista de todos los proyectos en los que hemos trabajado juntos, es una especie de wallboard 
+Esta es una lista de todos los proyectos en los que hemos trabajado juntos, es una especie de wallboard para celebrar y conmemorar nuestros lo que hacemos juntos.
 
 Los proyectos estan organizados de mas reciente a mas antiguos
 
