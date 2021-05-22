@@ -7,7 +7,7 @@ Los proyectos estan organizados de mas reciente a mas antiguos
 
 
 ## 26-02-2021: Curso Básico de HTML (GRATIS!)
-![Banner Curso Html](/assets/img/curso.png)
+![Banner Curso Html](/assets/img/curso.jpg)
   - URL 1: [Link Youtube](https://www.youtube.com/watch?v=NuxSuvAagEc)
   - URL 2: [Link Udemy](https://www.udemy.com/course/aprende-html-desde-cero-para-principiantes/learn/lecture/26007404#overview)
 
