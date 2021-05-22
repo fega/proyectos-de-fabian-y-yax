@@ -1,6 +1,4 @@
----
-title: Lista de proyectos de Fabián Nómada y Ramdom_Y
----
+# Lista de proyectos de Fabián Nómada y Ramdom_Y
 
 Esta es una lista de todos los proyectos en los que hemos trabajado juntos, es una especie de wallboard para celebrar y conmemorar nuestros lo que hacemos juntos.
 
